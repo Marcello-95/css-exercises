@@ -1,0 +1,17 @@
+p{
+    font-style: verdana, sans-serif;
+    background-color:rgb(241, 162, 182);
+    
+}
+#second-element{
+    font-size:36px;
+    color:rgb(10, 10, 218);
+}
+.number-3{
+    font-size: 24px;
+} 
+#number-4{
+    font-size: 24px;
+    font-weight:bold;
+    background-color: rgb(131, 218, 123);
+}
